@@ -27,4 +27,6 @@ switch(parseInt(mes)){
   case 12:
     alert("Primavera");
     break;
+  default:
+    alert("Esse número não representa um mês válido")
 }
