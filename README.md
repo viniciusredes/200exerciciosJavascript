@@ -18,20 +18,20 @@
 
 [Exercício 09:](exercicio09.js) Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero.
 
-[Exercício 10:](exercicio09.js) Escreva um programa que recebe duas notas de um aluno, calcula a média e imprime se o aluno foi aprovado ou reprovado (considerando que a média para aprovação é 7).
+[Exercício 10:](exercicio10.js) Escreva um programa que recebe duas notas de um aluno, calcula a média e imprime se o aluno foi aprovado ou reprovado (considerando que a média para aprovação é 7).
 
-[Exercício 11:](exercicio09.js) Escreva um programa que verifica se uma pessoa pode votar com base na idade.
+[Exercício 11:](exercicio11.js) Escreva um programa que verifica se uma pessoa pode votar com base na idade.
 
-[Exercício 12:](exercicio09.js) Escreva um programa que verifica a situação de um estudante de acordo com sua média final.
+[Exercício 12:](exercicio12.js) Escreva um programa que verifica a situação de um estudante de acordo com sua média final.
 
-[Exercício 13:](exercicio09.js) Escreva um programa que calcula o IMC (Índice de Massa Corporal) de uma pessoa e imprime uma mensagem indicando se a pessoa está abaixo do peso, com peso normal, com sobrepeso ou obesa.
+[Exercício 13:](exercicio13.js) Escreva um programa que calcula o IMC (Índice de Massa Corporal) de uma pessoa e imprime uma mensagem indicando se a pessoa está abaixo do peso, com peso normal, com sobrepeso ou obesa.
 
-[Exercício 14:](exercicio09.js) Escreva um programa que verifica se um ano é bissexto.
+[Exercício 14:](exercicio14.js) Escreva um programa que verifica se um ano é bissexto.
 
-[Exercício 15:](exercicio09.js) Escreva um programa que verifica se uma palavra é um palíndromo.
+[Exercício 15:](exercicio15.js) Escreva um programa que verifica se uma palavra é um palíndromo.
 
-[Exercício 16:](exercicio09.js) Escreva um programa que determina o maior entre três números.
+[Exercício 16:](exercicio16.js) Escreva um programa que determina o maior entre três números.
 
-[Exercício 17:](exercicio09.js) Escreva um programa que determina se um número é par ou ímpar.
+[Exercício 17:](exercicio17.js) Escreva um programa que determina se um número é par ou ímpar.
 
-[Exercício 18:](exercicio09.js) Escreva um programa que verifica se uma pessoa pode dirigir com base na idade.
+[Exercício 18:](exercicio18.js) Escreva um programa que verifica se uma pessoa pode dirigir com base na idade.
