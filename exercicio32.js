@@ -1,4 +1,5 @@
 //Usando um laço do-while, crie um jogo de "Pedra, papel e tesoura" contra o computador.
+
 let escolhaUsuario = prompt("Escolha uma das opções (Pedra, Papel, Tesoura)");
 let escolhaPrograma = ["Pedra", "Papel", "Tesoura"]
 let index = Math.floor(Math.random()*3)
