@@ -7,6 +7,8 @@
  * Obeso mórbido > 40
  * 
  **/
+import promptSync from 'prompt-sync';
+const prompt = promptSync();
 
 let altura = prompt("Digite sua altura em centimetros")
 let peso = prompt("Digite seu peso em kgs")
