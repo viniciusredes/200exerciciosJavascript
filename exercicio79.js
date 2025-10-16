@@ -5,13 +5,11 @@ const carro = {
   modelo:"camaro",
   ano:2025,
   velocidade:0,
-  acelerar:() => {this.velocidade += 10},
-  frear:() => {if(this.velocidade >= 10){
-    this.velocidade -= 10
-  }},
-  mostrarVelocidade: () => {return this.velocidade}
+  acelerar:function(){return this.velocidade += 10},
+  frear:function(){
+    return this.velocidade >= 10 ? this.velocidade -= 10 : this.velocidade
+  },
+  mostrarVelocidade: function(){return this.velocidade}
 }
-carro.acelerar()
-carro.acelerar()
-carro.frear()
-carro.mostrarVelocidade()
+
+console.log(carro.acelerar())
