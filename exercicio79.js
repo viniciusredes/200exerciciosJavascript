@@ -2,7 +2,7 @@
 
 const carro = {
   marca: "chevrolet",
-  modelo:"camaro",
+  modelo:"camaro", 
   ano:2025,
   velocidade:0,
   acelerar:function(){return this.velocidade += 10},
