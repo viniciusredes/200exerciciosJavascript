@@ -2,10 +2,9 @@
 
 const arrayWords = ['cuca', 'fruta', 'puta', 'chuta', 'chuca', 'bruxa']
 const badWords = ['puta', 'chuca', 'bruxa']
-const filterWords = (arrayWords, badWords) => {
-  
+const filterWords = (arrayWords, badWords) => {  
   return arrayWords.filter(word => {
-    return !badWords.includes(word) ? word : ""
+    return !badWords.includes(word)
   })
 }
 console.log(filterWords(arrayWords, badWords))
