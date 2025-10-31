@@ -10,5 +10,4 @@ const cadastroObject = (cadastroJSON) => {
 }
 
 const cadastro = cadastroObject(cadastroJSON)
-cadastro['estadoCivil'] = 'Casado'
-console.log(cadastro)
+console.log(cadastro.nome)
